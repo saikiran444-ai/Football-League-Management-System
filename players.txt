@@ -1,0 +1,37 @@
++-----------+---------+--------------+-------------+------------+----------+-------------+
+| player_id | team_id | fname        | lname       | position   | jerseyno | team_name   |
++-----------+---------+--------------+-------------+------------+----------+-------------+
+| 1         | 1       | Marc-Andre   | ter Stegen  | Goalkeeper | 1        | Barcelona   |
+| 2         | 1       | Gerard       | Pique       | Defender   | 3        | Barcelona   |
+| 3         | 1       | Jordi        | Alba        | Defender   | 18       | Barcelona   |
+| 4         | 1       | Sergio       | Busquets    | Midfielder | 5        | Barcelona   |
+| 5         | 1       | Frenkie      | de Jong     | Midfielder | 21       | Barcelona   |
+| 6         | 1       | Pedri        | Gonzalez    | Midfielder | 16       | Barcelona   |
+| 7         | 1       | Ansu         | Fati        | Forward    | 10       | Barcelona   |
+| 8         | 1       | Ousmane      | Dembele     | Forward    | 7        | Barcelona   |
+| 9         | 1       | Memphis      | Depay       | Forward    | 9        | Barcelona   |
+| 10        | 1       | Sergi        | Roberto     | Midfielder | 20       | Barcelona   |
+| 11        | 1       | Ronald       | Araujo      | Defender   | 4        | Barcelona   |
+| 12        | 2       | Thibaut      | Courtois    | Goalkeeper | 1        | Real Madrid |
+| 13        | 2       | Dani         | Carvajal    | Defender   | 2        | Real Madrid |
+| 14        | 2       | Sergio       | Ramos       | Defender   | 4        | Real Madrid |
+| 15        | 2       | Raphael      | Varane      | Defender   | 5        | Real Madrid |
+| 16        | 2       | Marcelo      | Vieira      | Defender   | 12       | Real Madrid |
+| 17        | 2       | Casemiro     | Henrique    | Midfielder | 14       | Real Madrid |
+| 18        | 2       | Toni         | Kroos       | Midfielder | 8        | Real Madrid |
+| 19        | 2       | Luka         | Modric      | Midfielder | 10       | Real Madrid |
+| 20        | 2       | Karim        | Benzema     | Forward    | 9        | Real Madrid |
+| 21        | 2       | Eden         | Hazard      | Forward    | 7        | Real Madrid |
+| 22        | 2       | Vinicius     | Junior      | Forward    | 20       | Real Madrid |
+| 23        | 3       | Keylor       | Navas       | Goalkeeper | 1        | PSG         |
+| 24        | 3       | Achraf       | Hakimi      | Defender   | 2        | PSG         |
+| 25        | 3       | Marquinhos   |             | Defender   | 5        | PSG         |
+| 26        | 3       | Sergio       | Ramos       | Defender   | 4        | PSG         |
+| 27        | 3       | Juan         | Bernat      | Defender   | 14       | PSG         |
+| 28        | 3       | Marco        | Verratti    | Midfielder | 6        | PSG         |
+| 29        | 3       | Leandro      | Paredes     | Midfielder | 8        | PSG         |
+| 30        | 3       | Ander        | Herrera     | Midfielder | 21       | PSG         |
+| 31        | 3       | Neymar       | Jr          | Forward    | 10       | PSG         |
+| 32        | 3       | Kylian       | Mbappe      | Forward    | 7        | PSG         |
+| 33        | 3       | Lionel       | Messi       | Forward    | 30       | PSG         |
++-----------+---------+--------------+-------------+------------+----------+-------------+
